@@ -9,6 +9,7 @@ Goal: The goal of this assignment is to get some practice with linked lists. In 
 
 Problem Statement: Imagine a grayscale image of size NxN. Each pixel is either black (0) or white (1). In typical course, this will be represented as a 2D array storing O(N2) values. The idea of the compressed representation is to use the redundancy in the pixel value information among neighboring pixels to reduce the amount of information that needs to be stored. The representation proceeds row-wise and stores the column indices of contiguous segments of black (0) pixels. For example, see the image below:
 
+![image](https://user-images.githubusercontent.com/25972864/40572626-411789e6-60ce-11e8-8b3f-ae15d7e7630c.png)
 
 
 
